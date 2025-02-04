@@ -1,6 +1,6 @@
 import random
 from pstats import count_calls
-
+# HOMEWORK - ADDING WHILE TO THE SEQ
 s = 0
 while s <= 800:
     s = 0
